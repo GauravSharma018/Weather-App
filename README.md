@@ -78,5 +78,6 @@ Follow these steps to set up the project on your local machine.
 -   **CSS3**: For styling and layout, including the gradient background and responsive design.
 -   **Vanilla JavaScript**: For the application logic, API calls, and DOM manipulation.
 
-## Licence
-This project 
+## 📄 License
+
+This project is open-source and available under the **MIT License**. See the `LICENSE` file for more details.
